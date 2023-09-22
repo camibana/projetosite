@@ -1,2 +1,2 @@
 # projetosite
-Criando um link válido pelocGithub
+Criando um link válido pelo github
